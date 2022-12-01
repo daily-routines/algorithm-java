@@ -1,2 +1,2 @@
-# algorihtm-java
-알고리즘 스터디입니다.
+# Algorihtm Study 📝
+* 일주일에  **3문제 이상**  풀이하여 업로드합니다.
