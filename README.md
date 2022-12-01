@@ -22,4 +22,4 @@
 * 🔗[MERGE]
 
 ## Reference Site
-![Notion](https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white&link={https://www.notion.so/Algorithm-Study-8dfca127689148d490bb72d3fba46b6a})
