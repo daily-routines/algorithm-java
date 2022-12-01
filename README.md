@@ -4,4 +4,4 @@
 |     | 한교진 | 김성현 | 이상직 | 백지훈 |
 |:---:| :---:| :---: | :---:| :---:|
 |github|      |      |       |       |
-|Language|![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)|||
+|Language|<td colspan="5">![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)|
