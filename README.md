@@ -22,4 +22,4 @@
 * 🔗[MERGE]
 
 ## Reference Site
-![Notion](https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white)
