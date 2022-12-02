@@ -35,6 +35,7 @@ public class N4948 {
                 }
             }
             System.out.println(cnt);
+
         }
     }
 }
