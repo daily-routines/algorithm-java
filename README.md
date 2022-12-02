@@ -4,7 +4,7 @@
 ## 📌 Progress Record
 |     | 한교진 | 김성현 | 이상직 | 백지훈 |
 |:---:| :---:| :---: | :---:| :---:|
-|github|[hangj97](https://github.com/hangj97) | [seonghyun-1](https://github.com/seonghyun-1)     |       |       |
+|github|[hangj97](https://github.com/hangj97) | [seonghyun-1](https://github.com/seonghyun-1)     |https://github.com/JeekLee|       |
 |Week 01|     |      |       |       |
 
 
