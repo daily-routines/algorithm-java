@@ -5,8 +5,8 @@
 * PR 했을 경우, 슬랙에 PR 했다고 메시지를 남겨주셔야 합니다.
 * 알고리즘 문제 해결과정에서 자신의 풀이를 상대방이 이해하기 쉽도록 주석 달아주어야 합니다.
 ## 📌 Progress Record
-|     | 한교진 | 이상직 | 백지훈 |
-|:---:| :---:| :---: | :---:| :---:|
+|| 한교진 | 이상직 | 백지훈 |
+|:---:| :---:| :---:|
 |github|[hangj97](https://github.com/hangj97)|[JeekLee](https://github.com/JeekLee)|[jihunBeak](https://github.com/jihun1362)|
 |Week 01|  ✅   |   ✅   |   ✅    |
 
