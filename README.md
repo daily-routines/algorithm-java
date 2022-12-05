@@ -1,7 +1,8 @@
 # Algorihtm Study 📝
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 * 일주일에  **3문제 이상**  풀이하여 업로드합니다.
-* 커밋은 PR을 통해서 모든 스터디원이 리뷰를 달았을 경우, Merge하는 방식으로 진행합니다.
+* 모든 커밋은 PR을 통해서 모든 스터디원이 리뷰를 달았을 경우, Merge하는 방식으로 진행합니다.
+* PR 했을 경우, 슬랙에 PR 했다고 메시지를 남겨주셔야 합니다.
 * 알고리즘 문제 해결과정에서 자신의 풀이를 상대방이 이해하기 쉽도록 주석 달아주어야 합니다.
 ## 📌 Progress Record
 |     | 한교진 | 김성현 | 이상직 | 백지훈 |
